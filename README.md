@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! I'm Amy Stanley 👋
 
-<!--
-**amystanley25/amystanley25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTR1OXUxY2lyMHRyaWxzN3JwbG03Y3VkZDB2bTl1dzhvcW5kOGp2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kpUM1Zhzs5RVFBwBkr/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 About Me
+
+- 🤔 Aspiring Software Engineer with interests in full-stack development, cloud computing, data analytics, computer security, and AI/ML
+
+- 🎓 Pursuing Bachelor's Degree in Computer Science & Data Science @ UC Berkeley
+
+- 🌱 Current SDE Intern @ Amazon, Incoming SWE Intern @ SpaceX
+
+🛠 Tech Stack
+
+- 💻 Java | Python | MySQL | JavaScript
+
+- 🌐 HTML | CSS | Bootstrap | Spring MVC | Springboot | Django
+
+- 🛢 AWS | MySQL | MongoDB | Hibernate
