@@ -10,8 +10,6 @@
 
 - 🎓 Pursuing Bachelor's Degree in Computer Science & Data Science @ UC Berkeley
 
-- 🌱 Current SDE Intern @ Amazon, Incoming SWE Intern @ SpaceX
-
 🛠 Tech Stack
 
 - 💻 Java | Python | MySQL | JavaScript
